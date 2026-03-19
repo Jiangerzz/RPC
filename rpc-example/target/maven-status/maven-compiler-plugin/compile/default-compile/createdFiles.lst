@@ -1,0 +1,4 @@
+com/example/rpc/example/api/HelloService.class
+com/example/rpc/example/provider/ProviderApplication.class
+com/example/rpc/example/provider/HelloServiceImpl.class
+com/example/rpc/example/consumer/ConsumerApplication.class

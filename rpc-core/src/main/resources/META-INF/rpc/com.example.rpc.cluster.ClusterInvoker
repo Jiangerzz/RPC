@@ -1,0 +1,2 @@
+failFast=com.example.rpc.cluster.FailFastClusterInvoker
+retry=com.example.rpc.cluster.RetryClusterInvoker

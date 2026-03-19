@@ -1,0 +1,2 @@
+jdk=com.example.rpc.serialize.JdkSerializer
+json=com.example.rpc.serialize.JsonSerializer
